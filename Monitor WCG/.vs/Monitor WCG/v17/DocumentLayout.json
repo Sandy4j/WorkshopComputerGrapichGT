@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yoga Sandy\\source\\repos\\Monitor WCG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7063A402-56D9-40F4-9A5B-30085DD6B1DA}|Monitor WCG\\Monitor WCG.vcxproj|C:\\Users\\Yoga Sandy\\source\\repos\\Monitor WCG\\Monitor WCG\\Monitor WCG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7063A402-56D9-40F4-9A5B-30085DD6B1DA}|Monitor WCG\\Monitor WCG.vcxproj|solutionrelative:Monitor WCG\\Monitor WCG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monitor WCG.cpp",
+              "DocumentMoniker": "C:\\Users\\Yoga Sandy\\source\\repos\\Monitor WCG\\Monitor WCG\\Monitor WCG.cpp",
+              "RelativeDocumentMoniker": "Monitor WCG\\Monitor WCG.cpp",
+              "ToolTip": "C:\\Users\\Yoga Sandy\\source\\repos\\Monitor WCG\\Monitor WCG\\Monitor WCG.cpp",
+              "RelativeToolTip": "Monitor WCG\\Monitor WCG.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T08:18:49.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
